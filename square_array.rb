@@ -3,4 +3,4 @@ def square_array(array)
     puts {num ** 2}
   # your code here
 end
-
+end
